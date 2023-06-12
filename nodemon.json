@@ -1,0 +1,5 @@
+{
+    "env":{
+        "CLEARDB_DATABASE_URL":"mysql://root:passwordroot@localhost/kolix-test"
+    }
+}
